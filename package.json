@@ -1,0 +1,24 @@
+{
+  "name": "ningmeng_back",
+  "version": "1.0.0",
+  "description": "柠檬记账后台代码",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxx929/ningmeng_back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxx929/ningmeng_back/issues"
+  },
+  "homepage": "https://github.com/lxx929/ningmeng_back#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}
